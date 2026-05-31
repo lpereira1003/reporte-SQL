@@ -11,7 +11,7 @@ tourism
 
 ## Diagrama entidad-relación
 
-![Diagrama de Base de Datos](accommodation_amenities.png)
+![Diagrama de Base de Datos](diagrama_bd.png)
 
 ## Descripción
 
