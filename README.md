@@ -11,7 +11,7 @@ tourism
 
 ## Diagrama entidad-relación
 
-![DER](docs/diagrama_bd.png)
+![DER](blob/main/diagrama_bd.png)
 
 ## Descripción
 
