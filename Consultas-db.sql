@@ -54,7 +54,7 @@ VALUES
   0,
   542.40,
   'BR-101'
-)
+);
 -- =====================================================
 -- 04 INSERTAR PAGO
 -- EN: tourism.payments, tourism.bookings
@@ -244,7 +244,8 @@ GROUP BY
 HAVING
   COUNT(*) > 3
 ORDER BY
-  total_reservas ASC -- =====================================================
+  total_reservas ASC;
+	 -- =====================================================
   -- 20 ALOJAMIENTO MÁS CARO
   -- EN: tourism.accommodations
   -- ES: alojamientos
