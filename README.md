@@ -9,6 +9,10 @@ PostgreSQL
 
 tourism
 
+## Diagrama entidad-relación
+
+![DER](docs/diagrama_bd.png)
+
 ## Descripción
 
 Este repositorio contiene las 20 consultas SQL solicitadas en la actividad del Bootcamp MINEDUCYT-KODIGO.
